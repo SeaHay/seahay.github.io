@@ -1,9 +1,14 @@
-@@font-face {
+
+/*
+@font-face {
   font-family: Quikhand;
   src:url(Quikhand.ttf);
-}
+*/
+
 h1,h2,h3 {
-  font-family: Quikhand;
+  font-family: Monaco, monospace;
+  font-weight: bold;
+  color: #A16B13;
 }
 body {
   background-color: #FCDF90;
