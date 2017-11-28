@@ -2,3 +2,10 @@
   font-family: Quikhand;
   src:./Quikhand.css;
 }
+h1,h2,h3 {
+  font-family: Quikhand;
+}
+body {
+  background-color: #FCDF90;
+  color: #030F19;
+}
