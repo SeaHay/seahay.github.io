@@ -17,10 +17,11 @@ body {
   font-family: Helvetica;
 }
 #wrapper {
-  background-color: #EDA734;
+  background-color: #C48113;
   
   border:solid 4px #543708;
   border-radius: 5px;
   
-  margin: 10% auto 10% auto;
+  margin: 5% auto 5% auto;
+  padding: 15px;
 }
