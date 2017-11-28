@@ -16,3 +16,9 @@ body {
 
   font-family: Helvetica;
 }
+#wrapper {
+  background-color: #EDA734;
+  
+  border:solid 1% black;
+  border-radius: 3%;
+}
