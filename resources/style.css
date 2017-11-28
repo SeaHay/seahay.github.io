@@ -1,6 +1,6 @@
 @@font-face {
   font-family: Quikhand;
-  src:./Quikhand.css;
+  src:url(Quikhand.ttf);
 }
 h1,h2,h3 {
   font-family: Quikhand;
@@ -8,4 +8,6 @@ h1,h2,h3 {
 body {
   background-color: #FCDF90;
   color: #030F19;
+
+  font-family: Helvetica;
 }
