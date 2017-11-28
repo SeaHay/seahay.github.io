@@ -19,8 +19,8 @@ body {
 #wrapper {
   background-color: #EDA734;
   
-  border:solid 1% black;
-  border-radius: 3%;
+  border:solid 4px #543708;
+  border-radius: 5px;
   
-  margin: auto 10% auto 10%;
+  margin: 10% auto 10% auto;
 }
