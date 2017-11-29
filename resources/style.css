@@ -11,17 +11,18 @@ h1,h2,h3 {
   color: #A16B13;
 }
 body {
-  background-color: #FCDF90;
+  background-color: #F9C571;
   color: #030F19;
 
   font-family: Helvetica;
 }
 #wrapper {
-  background-color: #C48113;
-  
+  background-color: #FDCF90;
+
   border:solid 4px #543708;
-  border-radius: 5px;
-  
+  border-radius: 10px;
+
   margin: 5% auto 5% auto;
   padding: 15px;
+  width: 85%;
 }
