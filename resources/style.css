@@ -4,8 +4,24 @@
   font-family: Quikhand;
   src:url(Quikhand.ttf);
 */
-
-h1,h2,h3 {
+a:link {
+  color: #4C21D9;
+  font-size: 1em;
+}
+a:hover {
+  color: #167DE5;
+}
+a:visited {
+  color: #9B19F0;
+}
+a:active {
+  color: #E110E5;
+  font-size: 1.1em;
+}
+a {
+  text-decoration: none;
+}
+h1, h2, h3 {
   font-family: Monaco, monospace;
   font-weight: bold;
   color: #A16B13;
@@ -25,4 +41,19 @@ body {
   margin: 5% auto 5% auto;
   padding: 15px;
   width: 85%;
+}
+#navBar {
+  background-color: #AED8ff;
+
+  border: solid 3px #030F19;
+  border-radius: 6px;
+
+  margin: 2% auto 2% auto;
+  padding: 5px;
+  width: 50%;
+
+  text-align: center;
+
+  font-weight: bolder;
+  font-size: 1.125em;
 }
