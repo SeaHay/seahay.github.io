@@ -33,10 +33,10 @@ body {
   font-family: Helvetica;
 }
 #title {
-  font-size:1.25em;
+  /*font-size:1.25em;*/
   margin:10px;
-
-  color: #A16B13;
+  
+  /*color: #A16B13;*/
 }
 #wrapper {
   background-color: #FDCF90;
