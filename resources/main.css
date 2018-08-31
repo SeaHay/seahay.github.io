@@ -32,10 +32,16 @@ body {
 
   font-family: Helvetica;
 }
+pre {
+  font-size: 1.1em;
+  font-weight: bold;
+
+  letter-spacing: 2px;
+}
 #title {
   /*font-size:1.25em;*/
   margin:10px;
-  
+
   /*color: #A16B13;*/
 }
 #wrapper {
@@ -66,4 +72,11 @@ body {
 }
 #navBar a {
 	letter-spacing:1px;
+}
+.highlighted-indent {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  border-left: solid 3px #A16B13;
+  padding-left: 15px;
 }
