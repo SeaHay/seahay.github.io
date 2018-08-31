@@ -33,10 +33,17 @@ body {
   font-family: Helvetica;
 }
 pre {
+  background-color: #F9C571;
+  border-radius: 5px;
+
+  padding: 5px;
+
   font-size: 1.1em;
   font-weight: bold;
 
   letter-spacing: 2px;
+
+  display: inline-block;
 }
 #title {
   /*font-size:1.25em;*/
