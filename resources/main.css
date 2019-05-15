@@ -32,7 +32,12 @@ body {
 
   font-family: Helvetica;
 }
-pre {
+div.signature {
+  margin: 0px 0px 0px 30px;
+  padding: 0px;
+  border-style: none;
+}
+pre.signature {
   background-color: #F9C571;
   border-radius: 5px;
 
